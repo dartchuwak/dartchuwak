@@ -1,14 +1,14 @@
 ### Evgenii Mikhailov ###
 iOS Developer
 
-### About ###
+### About: ###
 
-### Projects ###
+### Projects: ###
 
 * [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
 * Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
 
-### Contacts ###
+### Contacts: ###
 
 * telegram: @dartchuwak
 
