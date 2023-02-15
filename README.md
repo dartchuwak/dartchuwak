@@ -1,4 +1,18 @@
-### Hello! My name is Evgenii Mikhailov
+### Evgenii Mikhailov ###
+iOS Developer
+
+### About ###
+
+### Projects ###
+
+* [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
+* Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
+
+### Contacts ###
+
+* telegram: @dartchuwak
+
+* e.mikhailov@outlook.com
 
 <!--
 **dartchuwak/dartchuwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
