@@ -7,6 +7,7 @@ iOS Developer
 
 * [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
 * Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
+* Тестовое задание [NewsApp](https://github.com/dartchuwak/NewsApp)
 
 ### Contacts: ###
 
