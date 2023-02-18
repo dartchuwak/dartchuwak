@@ -1,7 +1,6 @@
 ### Evgenii Mikhailov ###
 iOS Developer
 
-### About: ###
 
 ### Projects: ###
 
