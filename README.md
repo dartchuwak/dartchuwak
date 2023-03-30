@@ -7,7 +7,7 @@ Swift iOS Developer
 * [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
 * Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
 * Тестовое задание [NewsApp](https://github.com/dartchuwak/NewsApp)
-* [MoviesApp](https://github.com/dartchuwak/LordOfTheRings)
+* [MoviesApp]((https://github.com/dartchuwak/MoviesApp))
 * [GamesApp](https://github.com/dartchuwak/GamePrice)
 
 ### Contacts: ###
