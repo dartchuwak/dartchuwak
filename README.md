@@ -8,7 +8,7 @@ Swift iOS Developer
 * Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
 * Тестовое задание [NewsApp](https://github.com/dartchuwak/NewsApp)
 * [MoviesApp](https://github.com/dartchuwak/MoviesApp)
-* [GamesApp](https://github.com/dartchuwak/GamePrice)
+* [GamesApp](https://github.com/dartchuwak/GamesApp)
 
 ### Contacts: ###
 
