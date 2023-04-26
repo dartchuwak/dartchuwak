@@ -5,8 +5,7 @@ Swift iOS Developer
 ### Projects: ###
 
 * [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
-* Тестовое задание [Notes App](https://github.com/dartchuwak/NotesApp)
-* Тестовое задание [NewsApp](https://github.com/dartchuwak/NewsApp)
+* [Notes App](https://github.com/dartchuwak/NotesApp)
 * [NewsAppMVP](https://github.com/dartchuwak/NewsAppMVP)
 * [MoviesApp](https://github.com/dartchuwak/MoviesApp)
 * [GamesApp](https://github.com/dartchuwak/GamesApp)
