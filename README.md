@@ -3,7 +3,7 @@ Swift iOS Developer
 
 
 ### Projects: ###
-* [WishList](https://github.com/dartchuwak/WishlistApp)
+* [Wishlist](https://github.com/dartchuwak/whishlistApp)
 * [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
 * [Notes App](https://github.com/dartchuwak/NotesApp)
 * [NewsAppMVP](https://github.com/dartchuwak/NewsAppMVP)
