@@ -5,12 +5,6 @@ Swift iOS Developer
 ### Projects: ###
 * [Event Mark (Available on App Store)](https://github.com/dartchuwak/CalendarPicker)
 * [Wishlist (In Development)](https://github.com/dartchuwak/whishlistApp)
-* [Habit Tracker](https://github.com/dartchuwak/HabitTracker)
-* [Notes App](https://github.com/dartchuwak/NotesApp)
-* [NewsAppMVP](https://github.com/dartchuwak/NewsAppMVP)
-* [MoviesApp](https://github.com/dartchuwak/MoviesApp)
-* [GamesApp](https://github.com/dartchuwak/GamesApp)
-
 ### Contacts: ###
 
 * telegram: @dartchuwak
