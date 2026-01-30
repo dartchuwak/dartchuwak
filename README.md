@@ -6,9 +6,10 @@ Swift iOS Developer
 * [Event Mark (Available on App Store)](https://github.com/dartchuwak/CalendarPicker)
 * [Wishlist (In Development)](https://github.com/dartchuwak/whishlistApp)
 * [Тествовое задание ToDoList](https://github.com/dartchuwak/ToDoList)
+* [Тествовое задание Network Scanner](https://github.com/dartchuwak/NetworkScanner)
 ### Contacts: ###
 
-* telegram: @dartchuwak
+* telegram: @ev_mikhailov
 
 * e.mikhailov@outlook.com
 
